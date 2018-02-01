@@ -1,0 +1,7 @@
+[environments]
+  [environments.development]
+    name = "demo-spring-web-app"
+    namespace = "default"
+    wait = false
+    watch = false
+    watch_delay = 2
